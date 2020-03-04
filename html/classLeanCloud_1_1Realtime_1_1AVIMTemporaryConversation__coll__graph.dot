@@ -1,0 +1,15 @@
+digraph "LeanCloud.Realtime.AVIMTemporaryConversation"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="LeanCloud.Realtime.AVIMTemporary\lConversation",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AVIMConversation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLeanCloud_1_1Realtime_1_1AVIMConversation.html",tooltip="对话 "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="IEnumerable\< KeyValuePair\l\< string, object \>\>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="IAVObject",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _currentClient" ,fontname="Helvetica"];
+  Node5 [label="LeanCloud.Realtime.AVIMClient",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLeanCloud_1_1Realtime_1_1AVIMClient.html",tooltip="代表一个实时通信的终端用户 "];
+}

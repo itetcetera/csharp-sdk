@@ -1,0 +1,11 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="LeanCloud.Realtime.Internal.\lIWebSocketClient",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interfaceLeanCloud_1_1Realtime_1_1Internal_1_1IWebSocketClient.html",tooltip="LeanCloud WebSocket 客户端接口 "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="LeanCloud.Realtime.Internal.\lDefaultWebSocketClient",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLeanCloud_1_1Realtime_1_1Internal_1_1DefaultWebSocketClient.html",tooltip="LeanCloud Realtime SDK for .NET Portable 内置默认的 WebSocketClient "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="LeanCloud.Realtime.WebSocket\lClient",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLeanCloud_1_1Realtime_1_1WebSocketClient.html"];
+}

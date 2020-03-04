@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="LeanCloud.Realtime.AVIMClient.\lConfiguration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structLeanCloud_1_1Realtime_1_1AVIMClient_1_1Configuration.html",tooltip="一些可变的配置选项，便于应对各种需求场景 "];
+}

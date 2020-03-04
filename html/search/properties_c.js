@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['offlinemessagestrategy',['OfflineMessageStrategy',['../structLeanCloud_1_1Realtime_1_1AVRealtime_1_1Configuration.html#a8e7ac7a0e805a64f5098d6624473d351',1,'LeanCloud::Realtime::AVRealtime::Configuration']]],
+  ['ondisconnected',['OnDisconnected',['../classLeanCloud_1_1Realtime_1_1AVRealtime.html#a26825e6ae31327a7ada42c71a79c88b3',1,'LeanCloud::Realtime::AVRealtime']]],
+  ['oninvited',['OnInvited',['../classLeanCloud_1_1Realtime_1_1AVIMInvitedListener.html#a357bc0b8993f0ad2585dc1698b2a4c42',1,'LeanCloud::Realtime::AVIMInvitedListener']]],
+  ['onkicked',['OnKicked',['../classLeanCloud_1_1Realtime_1_1AVIMKickedListener.html#af6509bf29e495c9aba255f8df63ad325',1,'LeanCloud::Realtime::AVIMKickedListener']]],
+  ['onmembersjoined',['OnMembersJoined',['../classLeanCloud_1_1Realtime_1_1AVIMMembersJoinListener.html#a80749197ec218f8cac746f957473482f',1,'LeanCloud::Realtime::AVIMMembersJoinListener']]],
+  ['onmembersleft',['OnMembersLeft',['../classLeanCloud_1_1Realtime_1_1AVIMMembersLeftListener.html#a8fcc5efebdab1fb0b82d523984d9e419',1,'LeanCloud::Realtime::AVIMMembersLeftListener']]],
+  ['onmessage',['OnMessage',['../classLeanCloud_1_1Realtime_1_1WebSocketClient.html#ac256be2b16ee4ccaf3c74488ffa29c21',1,'LeanCloud::Realtime::WebSocketClient']]],
+  ['onmessagerecalled',['OnMessageRecalled',['../classLeanCloud_1_1Realtime_1_1AVIMClient.html#a3478864503268177db2b26a0023bbcd9',1,'LeanCloud::Realtime::AVIMClient']]],
+  ['onmessagereceived',['OnMessageReceived',['../classLeanCloud_1_1Realtime_1_1AVIMClient.html#a20fd4406ae6a0431a3e73256c042573e',1,'LeanCloud.Realtime.AVIMClient.OnMessageReceived()'],['../classLeanCloud_1_1Realtime_1_1AVIMMessageListener.html#a86d7535c97bf261afaebd02cdd9675bc',1,'LeanCloud.Realtime.AVIMMessageListener.OnMessageReceived()']]],
+  ['onmessageupdated',['OnMessageUpdated',['../classLeanCloud_1_1Realtime_1_1AVIMClient.html#a61d8d1d938aa7c0feaf0cc81c869faf3',1,'LeanCloud::Realtime::AVIMClient']]],
+  ['onopened',['OnOpened',['../classLeanCloud_1_1Realtime_1_1WebSocketClient.html#a5b61d51feffca4bf2f6785de1d390238',1,'LeanCloud::Realtime::WebSocketClient']]],
+  ['onreconnected',['OnReconnected',['../classLeanCloud_1_1Realtime_1_1AVRealtime.html#a5863310af39feba30264cddc2237cebd',1,'LeanCloud::Realtime::AVRealtime']]],
+  ['onreconnectfailed',['OnReconnectFailed',['../classLeanCloud_1_1Realtime_1_1AVRealtime.html#a2e0ddcc65fe9b6bfec855576e1dd184c',1,'LeanCloud::Realtime::AVRealtime']]],
+  ['onreconnecting',['OnReconnecting',['../classLeanCloud_1_1Realtime_1_1AVRealtime.html#a789d7ffc83e62193bfd60035ca6ad7ac',1,'LeanCloud::Realtime::AVRealtime']]],
+  ['onsessionclosed',['OnSessionClosed',['../classLeanCloud_1_1Realtime_1_1AVIMClient.html#a1503596dc0a73e14e34d046b2045888b',1,'LeanCloud::Realtime::AVIMClient']]],
+  ['ontextmessagereceived',['OnTextMessageReceived',['../classLeanCloud_1_1Realtime_1_1AVIMTextMessageListener.html#a5f2537c424199a54cc284586cde27404',1,'LeanCloud::Realtime::AVIMTextMessageListener']]],
+  ['opratedtime',['OpratedTime',['../classLeanCloud_1_1Realtime_1_1AVIMOnMembersChangedEventArgs.html#aac82d7c3005ddf7ee745dc82d91cef2a',1,'LeanCloud::Realtime::AVIMOnMembersChangedEventArgs']]],
+  ['oprator',['Oprator',['../classLeanCloud_1_1Realtime_1_1AVIMOnMembersChangedEventArgs.html#a8273776ede775828631ef180bb32659d',1,'LeanCloud::Realtime::AVIMOnMembersChangedEventArgs']]]
+];
